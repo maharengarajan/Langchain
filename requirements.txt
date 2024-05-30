@@ -10,3 +10,14 @@ langserve
 fastapi
 uvicorn
 sse_starlette
+
+# RAG
+ipykernel
+beautifulsoup4
+pypdf
+unstructured
+langchain-text-splitters
+chromadb
+faiss-cpu
+sentence_transformers
+langchain-chroma
