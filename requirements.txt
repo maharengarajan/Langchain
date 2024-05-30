@@ -4,3 +4,9 @@ langchain-core
 langchain-community
 python-dotenv
 streamlit
+
+# for api
+langserve
+fastapi
+uvicorn
+sse_starlette
